@@ -1,5 +1,5 @@
 ---
-title: Darren J. Yeo, Ph.D.
+title: Darren J. Yeo
 role: Assistant Professor of Psychology
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
