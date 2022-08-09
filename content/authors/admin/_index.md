@@ -10,30 +10,30 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:darrenyeo@ntu.edu.sg
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/darrenjyeo
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=Yb2KKxoAAAAJ&hl=en
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Nanyang Technological University
+    url: https://dr.ntu.edu.sg/cris/rp/rp01327
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Educational Neuroscience
+      institution: Vanderbilt University
+      year: 2021
+    - course: MEd in Child Studies
+      institution: Vanderbilt University
+      year: 2016
+    - course: PGDE in Primary Education
+      institution: National Institute of Education, Nanyang Technological University
+      year: 2010
+    - course: BSocSci (Hons) in Psychology
+      institution: National University of Singapore
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 user_groups:
