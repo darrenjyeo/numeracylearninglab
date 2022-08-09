@@ -1,12 +1,10 @@
 ---
 title: Darren J. Yeo
 role: Assistant Professor of Psychology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I'm interested in...
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical and mathematical cognition; learning; symbolic thinking;
+    metacognition; mathematics education; educational neuroscience
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,7 +38,6 @@ user_groups:
   - Researchers
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Darren Yeo joined the Division of Psychology at Nanyang Technological University, Singapore, in July 2021. He obtained a Ph.D. in Neuroscience and an M.Ed. in Child Studies from Vanderbilt University, USA. He was trained as a primary school teacher at the National Institute of Education, Singapore, and have taught for a couple of years in an MOE school and other educational settings.\
+\
+He uses behavioural and neuroimaging methods to investigate how children and adults learn and think about numerical and mathematical symbols, concepts and skills, as well as how and why individuals differ in their learning and competencies. In another line of work, he studies the relative effectiveness of various learning and instructional strategies (e.g., retrieval practice and use of worked examples) to inform how individual and classroom learning can be better structured to make knowledge stick.
